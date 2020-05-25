@@ -31,7 +31,7 @@ Composée d'actuellement dix chansons, le but technique de l'application est de 
 
 5. Dans le terminal, se placer au niveau du fichier `requirements.txt`, puis installer les différents packages nécéssaires avec la commande suivante : `$ pip install -r requirements.txt`.
 
-6. Dans le terminal, rentrer la commande `$ cd OBBC/`, Une fois dans le dossier lancer l'application avec la commande `$ python run.py` ou `$ python3 run.py` via le serveur local et selon votre version de python (`$ python --version ou -V`).
+6. Dans le terminal, rentrer la commande `$ cd OBBC/`, Une fois dans le dossier lancer l'application avec la commande `$ python run.py` ou `$ python3 run.py` via le serveur local et selon votre version de python (`$ python --version ou -V`)
 
 
 
